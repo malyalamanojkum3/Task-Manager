@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "lunch",
+      "day": "2nd may",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "dinner",
+      "day": "3rd may",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "sfsf",
+      "day": "677",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "xvxv",
+      "day": "vxvs",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "meeting",
+      "day": "4 pm",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "hii",
+      "day": "gjgj",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
